@@ -1,0 +1,20 @@
+/* 自定义高亮样式 */
+.markdown-preview-view .highlight-red {
+    background-color: red;
+    color: white;
+}
+
+.markdown-preview-view .highlight-green {
+    background-color: green;
+    color: white;
+}
+
+.markdown-preview-view .highlight-blue {
+    background-color: blue;
+    color: white;
+}
+
+.markdown-preview-view .highlight-gray {
+    background-color: gray;
+    color: white; /* 根据需要调整文字颜色 */
+}

@@ -1,0 +1,14 @@
+{
+  "attachmentFolderPath": "./images",
+  "livePreview": false,
+  "focusNewTab": true,
+  "showLineNumber": true,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

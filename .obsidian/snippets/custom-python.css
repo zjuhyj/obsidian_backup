@@ -1,0 +1,8 @@
+
+
+/* 自定义Python代码块颜色 */
+pre[data-language="python"]{
+    background-color:#282a36; /* 背景色 */
+    color:#f8f8f2; /* 字体颜色 */
+    border: none; /* 去除边框 */
+}

@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Literature Notes/",
+  "literatureNoteContentTemplate": "---\nNO:\ntitle: \"{{title}}\"\nauthors: {{authorString}}\nyear: {{year}}\njournal: {{journal}}\nDOI: {{DOI}}\n---\n\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "Zotero/文献阅读.bib"
+}
