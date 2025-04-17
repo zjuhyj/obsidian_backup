@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3fe550b265646895",
+        "id": "ba7d65016d9ac163",
         "type": "tabs",
         "children": [
           {
-            "id": "b6af734a21ce9b1f",
+            "id": "7caebdc7dfa2a98f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0A Capability/Transformer/学习路线.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "学习路线"
+            }
+          },
+          {
+            "id": "4e46aa5460c8e173",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +34,28 @@
               "icon": "lucide-file",
               "title": "样式说明"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "169cb19114dd1b1b",
+        "type": "tabs",
+        "children": [
           {
-            "id": "4d0781c99ea5ac5c",
+            "id": "5dd6f9aa5c216170",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0A Algorithm/COLD_2020✔/@zhu_2020_ContinuousMonitoringLand.md",
+                "file": "0A Capability/Transformer/学习路线.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "@zhu_2020_ContinuousMonitoringLand"
+              "title": "学习路线"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0A Algorithm/COLD_2020✔/@zhu_2020_ContinuousMonitoringLand.md",
+                "file": "0A Capability/Transformer/学习路线.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of @zhu_2020_ContinuousMonitoringLand"
+              "title": "Outline of 学习路线"
             }
           }
         ],
@@ -169,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,53 +201,53 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "b4fa6425bf2c300c",
+  "active": "7caebdc7dfa2a98f",
   "lastOpenFiles": [
-    "0A Capability/transformer",
-    "0A Algorithm/BFAST_2010 ✔/@verbesselt_2010_DetectingTrendSeasonal.md",
-    "0A Algorithm/CCDC_2014 ✔/@zhu_2014_ContinuousChangeDetection.md",
-    "0A Algorithm/COLD_2020✔/@zhu_2020_ContinuousMonitoringLand.md",
+    "0A Capability/Transformer/Lee/21 各式各样的自注意力机制Self-Attention.md",
+    "0A Capability/Transformer/学习路线.md",
+    "0A Capability/Transformer/Lee/20 Transformer 下.md",
+    "0A Capability/Transformer/Lee/19 Transformer 上.md",
+    "0A Capability/Transformer/注意力机制.md",
+    "0A Capability/Transformer/Lee/images/Pasted image 20250417101633.png",
+    "0A Capability/Transformer/Lee/images/Pasted image 20250417101534.png",
+    "0A Capability/Transformer/Lee/images/Pasted image 20250417101146.png",
     "00 ReadMe/样式说明.md",
-    "0A Algorithm/COLD_2020✔/images/Pasted image 20250328155157.png",
-    "0A Algorithm/COLD_2020✔/images/Pasted image 20250328154841.png",
-    "0A Algorithm/COLD_2020✔/images/Pasted image 20250328093329.png",
-    "0A Algorithm/COLD_2020✔/images/Pasted image 20250328093129.png",
-    "0A Algorithm/COLD_2020✔/images/Pasted image 20250328092506.png",
-    "0A Algorithm/COLD_2020✔/images/Pasted image 20250328091319.png",
-    "0A Algorithm/COLD_2020✔/images/Pasted image 20250328090857.png",
-    "0A Algorithm/COLD_2020✔/images/Pasted image 20250328085736.png",
-    "0A Algorithm/COLD_2020✔/images/Pasted image 20250327205325.png",
-    "0A Algorithm/COLD_2020✔/images/Pasted image 20250327205318.png",
-    "0A Algorithm/LandTrendr_2010 ✔/@kennedy_2010_DetectingTrendsForest.md",
-    "交流/0326 预答辩_硕博.md",
-    "Literature Notes/综述_卡片/@rodriguezpaulino_2024_ForestDisturbanceCharacterization.md",
-    "Literature Notes/综述_卡片/@machadonunesromeiro_2022_NaturalDisturbancesRisks.md",
-    "Literature Notes/综述_卡片/@wu_2023_ReviewDetectionAttribution.md",
-    "Literature Notes/综述_卡片/@ A 森林扰动_归纳_综述.md",
-    "Literature Notes/研究_卡片/@cohen_2016_ForestDisturbanceConterminous.md",
-    "想法/0321.md",
-    "交流/0321 组会_戚劲.md",
-    "想法",
-    "000 交流.md",
-    "交流",
-    "Literature Notes/Untitled",
-    "0A Algorithm/COLD_2020✔/images",
-    "0A Algorithm/CCDC_2014 ✔/实现_GEE.md",
-    "Literature Notes/@zhu_2014_ContinuousChangeDetection.md",
-    "0A Algorithm/BFAST_2010 ✔/实现_GEE.md",
-    "0A Algorithm/LandTrendr_2010 ✔/实现_GEE.md",
-    "0A Algorithm/⭐汇总.md",
-    "Literature Notes/研究_卡片/@perbet_2024_EvaluatingDeepLearning.md",
-    "0A Algorithm/BFAST_2010 ✔/@补充_Bai-Perron方法.md",
-    "0A Algorithm/COLD.md",
-    "0A Algorithm/COLD_2020✔",
-    "0A Algorithm/CCDC_2014 ✔/images",
-    "0A Capability/GEE_learning/Learning_1研究区导入导出.md",
-    "0A Algorithm/BFAST_2010 ✔/@补充_M估计（稳健回归）.md",
-    "0A Algorithm/BFAST_2010 ✔/@补充_OLS-MOSUM检验.md",
-    "0A Algorithm/BFAST_2010 ✔/images",
-    "0000000",
-    "0A Capability/GEE_learning/images",
-    "0A Capability/GEE_learning"
+    "0A Capability/Transformer/Lee/images/Pasted image 20250417100817.png",
+    "0A Capability/Transformer/Lee/images/Pasted image 20250417100603.png",
+    "0A Capability/Transformer/Lee/16&17 自注意力机制Self-attention.md",
+    "0A Capability/Transformer/Lee/images/Pasted image 20250416171634.png",
+    "0A Capability/Transformer/Lee/images/Pasted image 20250416171515.png",
+    "0A Capability/Transformer/Lee/images/Pasted image 20250416171458.png",
+    "0A Capability/Transformer/Lee/images/Pasted image 20250416170711.png",
+    "0A Capability/Transformer/Lee/images/Pasted image 20250416165628.png",
+    "0A Capability/Transformer/Lee/9 卷积神经网络CNN.md",
+    "0A Capability/Transformer/Lee/3 机器学习攻略（炼丹.md",
+    "0A Capability/Transformer/Lee/2 深度学习.md",
+    "0A Capability/Transformer/Lee/1 机器学习.md",
+    "0A Capability/Transformer/Lee/images",
+    "0A Capability/Transformer/Lee",
+    "0A Capability/图像/卷积.md",
+    "0A Data/国外/索引.md",
+    "0A Data/国内/索引.md",
+    "0A Capability/序列/TempCN/介绍.md",
+    "0A Data/国外",
+    "0A Data/国内",
+    "0A Capability/图像/images",
+    "0A Capability/图像",
+    "0A Record/植被扰动/伪变化.md",
+    "2025-02-24.md",
+    "0A Data",
+    "0A Capability/序列/TempCN/images",
+    "0A Capability/序列/GRU",
+    "0A Capability/序列/RNN&LSTM&BRNN&DRNN/介绍.md",
+    "0A Record/想法/0321.md",
+    "0A Record/植被扰动",
+    "0A Capability/Untitled.canvas",
+    "0A Capability/Z 平台使用/GEE_learning/Learning_1研究区导入导出.md",
+    "0A Capability/植扰经典算法/COLD_2020✔/@zhu_2020_ContinuousMonitoringLand.md",
+    "0A Capability/植扰经典算法/BFAST_2010 ✔/@verbesselt_2010_DetectingTrendSeasonal.md",
+    "0A Capability/植扰经典算法/CCDC_2014 ✔/@zhu_2014_ContinuousChangeDetection.md",
+    "0A Capability/植扰经典算法/LandTrendr_2010 ✔/@kennedy_2010_DetectingTrendsForest.md",
+    "0A Record/交流/0326 预答辩_硕博.md"
   ]
 }
